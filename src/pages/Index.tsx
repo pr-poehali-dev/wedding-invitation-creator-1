@@ -33,9 +33,7 @@ export default function Index() {
             <Icon name="Heart" size={48} className="mx-auto text-rose-400 mb-4" />
           </div>
           
-          <h1 className="font-display text-6xl md:text-7xl mb-4 text-gray-800 tracking-tight">
-            Анна & Дмитрий
-          </h1>
+          <h1 className="font-display text-6xl md:text-7xl mb-4 text-gray-800 tracking-tight">Валентина & Илья</h1>
           
           <Separator className="w-24 mx-auto my-8 bg-rose-300" />
           
