@@ -45,7 +45,7 @@ export default function Index() {
           <div className="space-y-3 text-lg text-gray-700">
             <div className="flex items-center justify-center gap-2">
               <Icon name="Calendar" size={20} className="text-rose-400" />
-              <span className="font-medium">15 июня 2025 года</span>
+              <span className="font-medium mx-0">20 февраля 2026 года</span>
             </div>
             <div className="flex items-center justify-center gap-2">
               <Icon name="Clock" size={20} className="text-rose-400" />
