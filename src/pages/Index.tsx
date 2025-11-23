@@ -49,7 +49,7 @@ export default function Index() {
             </div>
             <div className="flex items-center justify-center gap-2">
               <Icon name="Clock" size={20} className="text-rose-400" />
-              <span>Начало в 15:00</span>
+              <span></span>
             </div>
             <div className="flex items-center justify-center gap-2">
               <Icon name="MapPin" size={20} className="text-rose-400" />
